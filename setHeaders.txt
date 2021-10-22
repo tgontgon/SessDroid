@@ -1,0 +1,11 @@
+<okhttp3.Request$Builder: okhttp3.Request$Builder header(java.lang.String,java.lang.String)>
+<okhttp3.Request$Builder: okhttp3.Request$Builder addHeader(java.lang.String,java.lang.String)>
+<com.squareup.okhttp.Request$Builder: com.squareup.okhttp.Request$Builder header(java.lang.String,java.lang.String)>
+<com.squareup.okhttp.Request$Builder: com.squareup.okhttp.Request$Builder addHeader(java.lang.String,java.lang.String)>
+<java.net.HttpURLConnection: void setRequestProperty(java.lang.String,java.lang.String)>
+<java.net.URLConnection: void setRequestProperty(java.lang.String,java.lang.String)>
+<com.loopj.android.http.AsyncHttpClient: void addHeader(java.lang.String,java.lang.String)>
+<com.loopj.android.http.SyncHttpClient: void addHeader(java.lang.String,java.lang.String)>
+<org.apache.http.client.methods.HttpGet: setHeader(java.lang.String,java.lang.String)>
+<org.apache.http.client.methods.HttpPost: setHeader(java.lang.String,java.lang.String)>
+<android.app.DownloadManager$Request: android.app.DownloadManager$Request addRequestHeader(java.lang.String,java.lang.String)>
