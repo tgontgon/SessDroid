@@ -42,9 +42,9 @@ public class SessMain {
 
     public static void main(String[] args) throws IOException, XmlPullParserException {
 
-        String androidJars = "E:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\platforms";
-        String androidJar = "E:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\platforms\\android-26\\android.jar";
-        String apkDirPath = "F:\\cyx\\AndroidApp\\googleplay\\s";
+        String androidJars = ""; // configure android jar dir path
+        String androidJar = ""; // android jar path
+        String apkDirPath = ""; // apk location
         long maxMemoryConsume = -1;
         long alltime = 0;
         int appcount = 0;
